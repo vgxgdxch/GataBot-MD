@@ -173,7 +173,7 @@ global.exito = eg
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 global.wm = "𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 : 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨"
 global.igfg = "𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿"
-global.nomorown = "593993684821"
+global.nomorown = "201125166486"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
@@ -207,7 +207,7 @@ global.botdate = `⫹⫺ Date :  ${moment.tz('America/Los_Angeles').format('DD/M
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('America/Los_Angeles').format('HH:mm:ss')}`;//America/Los_Angeles
 global.fgif = {
 key: {
-participant : '0@s.whatsapp.net'},
+participant : '201125166486@s.whatsapp.net'},
 message: { 
 "videoMessage": { 
 "title": wm,
@@ -453,22 +453,22 @@ import(`${file}?update=${Date.now()}`);
 
 global.yt = 'https://youtube.com/@gatadios'
 global.ig = 'https://www.instagram.com/gata_dios'
-global.md = 'https://github.com/GataNina-Li/GataBot-MD'
+global.md = 'https://chat.whatsapp.com/LhRHyHvKNLOF192WJcx3Bz'
 global.fb = 'https://www.facebook.com/groups/872989990425789'
 global.tk = 'https://www.tiktok.com/@gata_dios'
 global.ths = 'https://www.threads.net/@gata_dios'
 global.paypal = 'https://paypal.me/OficialGD'
-global.asistencia = 'https://wa.me/message/MEKOUFBEOG5ED1'
+global.asistencia = 'https://chat.whatsapp.com/LhRHyHvKNLOF192WJcx3Bz'
 global.all = 'https://www.atom.bio/GataBot'
-global.canal1 = 'https://whatsapp.com/channel/0029Va4QjH7DeON0ePwzjS1A'
-global.canal2 = 'https://whatsapp.com/channel/0029Va6yY0iLY6d6XDmqA03g'
-global.canal3 = 'https://whatsapp.com/channel/0029VaKn22pDJ6GwY61Ftn15'
+global.canal1 = 'https://chat.whatsapp.com/LhRHyHvKNLOF192WJcx3Bz'
+global.canal2 = 'https://chat.whatsapp.com/LhRHyHvKNLOF192WJcx3Bz'
+global.canal3 = 'https://chat.whatsapp.com/LhRHyHvKNLOF192WJcx3Bz'
 global.canal4 = 'https://t.me/globalgb'
 
-global.soporteGB = "https://chat.whatsapp.com/GQ82mPnSYnm0XL2hLPk7FV"
-global.grupo1 = "https://chat.whatsapp.com/KNwcGS4PCEN5qjbHD5VDZM"
-global.grupo2 = "https://chat.whatsapp.com/LfcjmLcYax431QXBO0CSPk"
-global.grupo_collab1 = "https://chat.whatsapp.com/IO5k0UOF7hOJHE1eH3Fcxh"
-global.grupo_collab2 = "https://chat.whatsapp.com/GFsgXW2VD4I4FEOSlEg9wp"
-global.grupo_collab3 = "https://chat.whatsapp.com/H1TEBeMtFVv3RcayD1WfGU"
-global.grupo_collab4 = "https://chat.whatsapp.com/LuD3YzdOjH16LUwPPCVmL6"
+global.soporteGB = "https://chat.whatsapp.com/LhRHyHvKNLOF192WJcx3Bz"
+global.grupo1 = "https://chat.whatsapp.com/LhRHyHvKNLOF192WJcx3Bz"
+global.grupo2 = "https://chat.whatsapp.com/LhRHyHvKNLOF192WJcx3Bz"
+global.grupo_collab1 = "https://chat.whatsapp.com/LhRHyHvKNLOF192WJcx3Bz"
+global.grupo_collab2 = "https://chat.whatsapp.com/LhRHyHvKNLOF192WJcx3Bz"
+global.grupo_collab3 = "https://chat.whatsapp.com/LhRHyHvKNLOF192WJcx3Bz"
+global.grupo_collab4 = "https://chat.whatsapp.com/LhRHyHvKNLOF192WJcx3Bz"
